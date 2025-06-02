@@ -98,6 +98,6 @@ Este análisis se realizó utilizando herramientas de procesamiento y visualizac
 ## 📂 Cómo abrir y ejecutar el archivo  
 1. **Clona este repositorio** en tu máquina local:  
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
-   cd <NOMBRE_DEL_REPOSITORIO>
+   git clone <https://github.com/JeniTech10/Challenge2AluraLatam>
+   cd <Challenge2AluraLatam>
 
